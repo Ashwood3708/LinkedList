@@ -1,8 +1,3 @@
-# Assignment #2: List - Array Implementation
-
-*Review pages 6-7 in "From Java to C++" notes.* 
-
-*Due **Friday, September 8th, 2017 @ 11:59PM EST***
 
 ## Directions
 Create a `List` object. Using the following definition (`List.h` file) for a list, implement the member functions (methods) for the List class and store the implementation in file `List.cpp`.  Use an array to implement the list. Write the client code (the main method and other non-class methods) and put those methods in file `main.cpp`. 
